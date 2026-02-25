@@ -1,0 +1,8 @@
+[core]
+    remote = minioserver
+['remote "minioserver"']
+    url = s3://daki4nickyraghuemil
+    endpointurl = http://172.24.198.42:9000
+    access_key_id = daki
+    secret_access_key = dakiminio
+    use_ssl = false
